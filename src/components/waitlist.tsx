@@ -109,7 +109,7 @@ const Waitlist: React.FC = () => {
                   : "from-slate-900 to-slate-600"
               }`}
             >
-              UniList
+              VendorPal
             </span>
           </div>
 
@@ -463,7 +463,7 @@ const Waitlist: React.FC = () => {
                 darkMode ? "text-white" : "text-slate-900"
               }`}
             >
-              UniList
+              VendorPal
             </span>
           </div>
 
@@ -517,7 +517,7 @@ const Waitlist: React.FC = () => {
             darkMode ? "text-zinc-600" : "text-slate-500"
           }`}
         >
-          © {new Date().getFullYear()} UniList AI. All rights reserved.
+          © {new Date().getFullYear()} VendorPal AI. All rights reserved.
         </div>
       </footer>
     </div>
