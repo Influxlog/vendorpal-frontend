@@ -40,7 +40,8 @@ interface ProductJourneyAnimationProps {
 }
 
 // REPLACE WITH YOUR GOOGLE SCRIPT WEB APP URL
-const GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_SCRIPT_URL_HERE";
+const GOOGLE_SCRIPT_URL =
+  "https://script.google.com/macros/s/AKfycbynIq0jJpJ7Nhog6-cQlwBnbcmPpFInwPAtmnkgMfGKiEkGbFjkgDqzAHhADpzyjHrT/exec";
 
 const Waitlist: React.FC = () => {
   const [email, setEmail] = useState("");
